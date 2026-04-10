@@ -1,0 +1,260 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Times New Roman', Times, serif
+}
+p{
+    font-size: 15px;
+    font-weight: 100;
+    color: grey;
+}
+
+header nav {
+    display: flex;
+    list-style: none;
+    height: 90px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+}
+nav ul{
+    flex-direction: row;
+    list-style: none;
+    display: flex;
+    padding-inline: 50px;
+    font-size: 20px;
+    gap: 20px;
+    padding-top: 20px;
+    
+}
+.btng{
+    background-color: rgb(21, 219, 44);
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    color: aliceblue;
+    border-color: aliceblue;
+
+}
+.head{
+    background-image: url(./head.jpg);
+    height: 500px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+#head{
+    background-color: rgb(250, 250, 250);
+    height: 250px;
+    width: 500px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-inline: 30px;
+}
+.btny{
+    border-radius: 5px;
+    height: 40px;
+    width: 120px;
+    color: black;
+    background-color: rgb(202, 221, 3);
+    border-color:aliceblue;
+}
+h6{
+    font-size: larger;
+        padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+.Featured{
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    gap: 70px;
+}
+#a1{
+    display: flex;
+    gap: 20px;
+    width: 550px;
+
+}
+#a1 img{
+    height: 230px;
+    width: 200px;
+}
+#a2{
+    display: flex;
+    gap: 20px;
+    width: 550px;
+}
+#a2 img{
+    height: 230px;
+    width: 200px;
+}
+h4{
+    font-size: 20px;
+}
+.all stories{
+     padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+.a{
+    display: block;
+       padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 100px;
+    height: 750px;
+}
+#a3{
+     display: block;
+    gap: 20px;
+    width: 550px; 
+    text-align:center ;
+    height: 120px;
+    width: 220px;
+
+}
+h5{
+    font-size: 15px;
+}
+#a3 button{
+    height: 30px;
+    width: 200px;
+    background-color: rgb(83, 83, 251);
+    color: aliceblue;
+    border-radius: 3px;
+    
+}
+#a3 input{
+        height: 28px;
+    width: 200px;
+}
+#a4{
+     display: block;
+    gap: 20px;
+    width: 550px; 
+    height: 120px;
+    width: 220px;
+    padding-top: 100px;
+    text-align: center;
+}
+#a4 p{
+    padding: 10px;
+}
+#a5{
+      display: block;
+    gap: 20px;
+    width: 550px; 
+    height: 120px;
+    width: 220px;
+    padding-top: 150px;
+    text-align: center;
+}
+#a5 img{
+    height: 170px;
+    width: 200px;
+}
+.b{
+       padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 750px;
+
+}
+#a6 img{
+height: 150px;
+width: 300px;
+}
+#a6{
+    height: 220px;
+    width: 300px;
+}
+#a7 img{
+ height: 150px;
+width: 300px;   
+}
+#a7{
+   height: 220px;
+    width: 300px; 
+    padding-top: 100px;
+}
+.c{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 750px; 
+}
+#a8 img{
+   height: 150px;
+width: 300px; 
+}
+#a8{
+    height: 220px;
+    width: 300px; 
+}
+#a9 img{
+     height: 150px;
+width: 300px; 
+}
+#a9{
+   height: 220px;
+    width: 300px; 
+    padding-top: 100px; 
+}
+.abc{
+    display:flex;
+
+}
+
+.f1 img{
+height: 90px;
+width: 250px;
+}
+.fa{
+    display: block;
+}
+.f1{
+    display: flex;
+    background-color: rgb(241, 241, 7);
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    gap: 420px;
+    height: 200px;
+}
+.fa button{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(107, 16, 193);
+    color: aliceblue;
+    border-radius: 7px;
+    border-color: rgb(183, 204, 221);
+    bor
+}
+.fa h2{
+    font-size: 27px;
+}
+.f2{
+    display: flex;
+    height: 250px;
+    background-color: black;
+    color: aliceblue;
+    gap: 180px;
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.f2 ul{
+    list-style: none;
+    font-size: 15px;
+    color: gray;
+}
+.fe{
+    width:270px ;
+}
